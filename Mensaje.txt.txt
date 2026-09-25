@@ -1,3 +1,4 @@
 Curso: Programación de sistemas de información
 Institución: ISER
-Estado: InicialColaborador: wilber2026
+Estado: inicial
+Colaborador: Andres2026
